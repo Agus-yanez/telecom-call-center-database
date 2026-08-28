@@ -220,14 +220,16 @@ telecom-call-center-database/
 │   ├── 04-functions.sql
 │   ├── 05-stored-procedures.sql
 │   ├── 06-triggers.sql
-│   └── README.md
+│   ├── README.md
+│   └── README.es.md
 │
 ├── tests/
 │   ├── 01-functions-smoke-tests.sql
 │   ├── 02-stored-procedures-smoke-tests.sql
 │   ├── 03-trigger-smoke-tests.sql
 │   ├── 04-end-to-end-regression-tests.sql
-│   └── README.md
+│   ├── README.md
+│   └── README.es.md
 │
 └── docs/
     ├── database-model.md
@@ -237,8 +239,11 @@ telecom-call-center-database/
     ├── project-background.md
     ├── project-background.es.md
     ├── schema-decisions.md
+    ├── schema-decisions.es.md
     ├── stored-procedure-decisions.md
-    └── trigger-decisions.md
+    ├── stored-procedure-decisions.es.md
+    ├── trigger-decisions.md
+    └── trigger-decisions.es.md
 ```
 
 ---
@@ -314,6 +319,9 @@ All current test scripts were executed successfully against Microsoft SQL Server
 - [Modelo de base de datos](docs/database-model.es.md)
 - [Reglas de negocio](docs/business-rules.es.md)
 - [Contexto del proyecto](docs/project-background.es.md)
+- [Decisiones del esquema](docs/schema-decisions.es.md)
+- [Decisiones de stored procedures](docs/stored-procedure-decisions.es.md)
+- [Decisiones del trigger](docs/trigger-decisions.es.md)
 
 ---
 
