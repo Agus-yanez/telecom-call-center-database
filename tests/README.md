@@ -1,5 +1,7 @@
 # SQL test suite
 
+[🇦🇷 Versión en español](README.es.md)
+
 The portfolio version includes executable SQL Server smoke and regression tests.
 
 ## Execution order
