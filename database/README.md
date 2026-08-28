@@ -1,5 +1,7 @@
 # Reproducible installation
 
+[🇦🇷 Versión en español](README.es.md)
+
 The database is intentionally split into ordered scripts instead of a single opaque dump.
 
 Run these files in order against Microsoft SQL Server:
