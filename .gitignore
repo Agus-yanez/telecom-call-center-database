@@ -1,0 +1,17 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+*.user
+*.suo
+
+# SQL Server local artifacts / backups
+*.bak
+*.trn
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.log
