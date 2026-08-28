@@ -1,5 +1,7 @@
 # Schema decisions — portfolio refactor
 
+[🇦🇷 Versión en español](schema-decisions.es.md)
+
 This document records the main database-design decisions applied while preparing the original academic project for a public portfolio repository.
 
 ## Preserved from the academic project

@@ -1,5 +1,7 @@
 # Stored procedure decisions — portfolio refactor
 
+[🇦🇷 Versión en español](stored-procedure-decisions.es.md)
+
 The portfolio version keeps the eight stored procedures defined in the original academic specification.
 
 ## Procedures

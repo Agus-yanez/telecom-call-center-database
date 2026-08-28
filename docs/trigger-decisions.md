@@ -1,5 +1,7 @@
 # Trigger decisions — portfolio refactor
 
+[🇦🇷 Versión en español](trigger-decisions.es.md)
+
 The original academic project included a notification trigger associated with ticket status changes. The portfolio version keeps that idea and makes the implementation explicit and set-based.
 
 ## Trigger
